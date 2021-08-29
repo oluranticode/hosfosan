@@ -281,8 +281,6 @@ a:focus {
 
 .header .hero h2 span {
     color: #FFD662;
-    font-size: 60px;
-    font-weight: 600;
 }
 
 .header .hero p {
@@ -495,24 +493,17 @@ a:focus {
 .about .about-text h2 {
     position: relative;
     color: #00539C;
-    font-size: 80px;
+    font-size: 50px;
     margin-bottom: 15px;
-    text-transform: uppercase;
-    font-weight: 600;
 }
 
 .about .about-text h2 span {
-    font-size: 80px;
-    text-transform: uppercase;
-    font-weight: 600;
+    font-size: 120px;
 }
 
 .about .about-text p {
     font-size: 16px;
     margin-bottom: 30px;
-    text-transform: uppercase;
-    color: black;
-    font-weight: 500;
 }
 
 .about .about-text a.btn {
