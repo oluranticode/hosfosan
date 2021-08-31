@@ -281,7 +281,7 @@ a:focus {
 
 .header .hero h2 span {
     color: #FFD662;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 600;
 }
 
@@ -290,6 +290,15 @@ a:focus {
     font-size: 13px;
     color: #ffffff;
 }
+
+.header .hero p span {
+    margin: 10px 0 20px 0;
+    font-size: 33px;
+    color: #FFD662;
+    vertical-align: middle;
+    font-weight: 400;
+}
+
 
 .header .hero a.btn {
     position: relative;
