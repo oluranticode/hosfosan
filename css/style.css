@@ -291,6 +291,13 @@ a:focus {
     color: #ffffff;
 }
 
+/* .hero p .free{
+    margin: 10px 0 20px 0;
+    font-size: 15px;
+    color: red;
+    font-weight: 500 !;
+} */
+
 .header .hero p span {
     margin: 10px 0 20px 0;
     font-size: 33px;
@@ -1913,3 +1920,14 @@ a:focus {
         text-align: center;
     }
 }
+
+.other{
+    margin: auto;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    float: center;
+    position: relative;
+    color: black;
+}
+
